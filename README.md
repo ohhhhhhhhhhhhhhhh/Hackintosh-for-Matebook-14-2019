@@ -26,3 +26,5 @@ d) And the last, the order of ALT and Win keys is opposite, but fortunately it c
 
 
 If you have any questions, you can leave a message on my Wechat public platform.
+
+![image](https://raw.githubusercontent.com/ohhhhhhhhhhhhhhhh/Hackintosh-for-Matebook-14-2019/master/image/Contact%20me.png)
